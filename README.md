@@ -5,3 +5,7 @@ This repository contains example code for the Adeept AWR 4WD WiFi Smart Robot Ca
 This project is a fork of the original repository: https://github.com/adeept/Adeept_AWR.
 
 You can view the Changelog [here](https://github.com/51moon/Adeept_AWR/blob/main/CHANGELOG.md).
+
+## Web application preview
+
+<img src="screenshot.jpg">
